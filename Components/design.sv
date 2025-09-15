@@ -1,0 +1,12 @@
+// Code your design here
+`include "ALU.sv"
+`include "Ctrl.sv"
+`include "DMem.sv"
+`include "InstructionMemory.sv"
+`include "ProgramCounter.sv"
+`include "RegFile.sv"
+`include "TopLevel.sv"
+`include "Top_level0.sv"
+`include "Mux2_to_1_8bit.sv"
+`include "Mux4_to_1_8bit.sv"
+`include "FloatAdder.sv"
